@@ -15,7 +15,7 @@ This is a Python-based password generator that creates strong, randomized passwo
 2. Download or clone this repository.
 3. Run the script using:
    ```sh
-   python password_generator.py
+   python spg.py
    ```
 
 ## Usage
