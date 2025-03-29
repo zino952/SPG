@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Description
-This is a Python-based password generator that creates strong, randomized passwords for different social media and app accounts. Each password is saved in `password.txt` along with the corresponding social app name.
+This is a Python-based password generator that creates strong, randomized passwords which is level 7 for different social media and app accounts. Each password is saved in `password.txt` along with the corresponding social app name.
 
 ## Features
 - Generates strong 32-character passwords with a mix of letters, numbers, and symbols.
